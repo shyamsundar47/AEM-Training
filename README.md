@@ -5,4 +5,4 @@ AEM Training Demo Project
 
 Welcome to my git Page...
 1. Shyamsundar
-2. Sarevesh
+2. Sarvesh
